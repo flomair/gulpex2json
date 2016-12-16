@@ -1,0 +1,119 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "gulp-excelsheets2json",
+        "scope": null,
+        "escapedName": "gulp-excelsheets2json",
+        "name": "gulp-excelsheets2json",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "S:\\dev\\port"
+    ],
+    [
+      {
+        "raw": "gulp-excelsheets2json",
+        "scope": null,
+        "escapedName": "gulp-excelsheets2json",
+        "name": "gulp-excelsheets2json",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "S:\\dev\\myport"
+    ]
+  ],
+  "_from": "gulp-excelsheets2json",
+  "_id": "gulp-excelsheets2json@1.3.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/gulp-excelsheets2json",
+  "_nodeVersion": "6.3.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/gulp-excelsheets2json-1.3.0.tgz_1470394020887_0.8876038265880197"
+  },
+  "_npmUser": {
+    "name": "flomair",
+    "email": "f.mair@gmx.net"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "gulp-excelsheets2json",
+    "scope": null,
+    "escapedName": "gulp-excelsheets2json",
+    "name": "gulp-excelsheets2json",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/gulp-excelsheets2json/-/gulp-excelsheets2json-1.3.0.tgz",
+  "_shasum": "9cd007fa4e4cee6901de440103dacadfbce57238",
+  "_shrinkwrap": null,
+  "_spec": "gulp-excelsheets2json",
+  "_where": "S:\\dev\\myport",
+  "author": {
+    "name": "flomair",
+    "email": "f.mair@gmx.net"
+  },
+  "bugs": {
+    "url": "https://github.com/flomair/gulp-excelsheets2json.git/issues"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.0",
+    "xlsx": "^0.8.0"
+  },
+  "description": "Excel Sheets (XLSX/XLS) to json",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "chai-stream": "0.0.0",
+    "fs-promise": "^0.5.0",
+    "mocha": "^3.0.2",
+    "sinon": "^1.17.5",
+    "sinon-as-promised": "^4.0.2",
+    "sinon-chai": "^2.8.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "9cd007fa4e4cee6901de440103dacadfbce57238",
+    "tarball": "https://registry.npmjs.org/gulp-excelsheets2json/-/gulp-excelsheets2json-1.3.0.tgz"
+  },
+  "files": [
+    "index.js"
+  ],
+  "gitHead": "d5079b6ec9a4fa4e3669cacbc91ff7d0e58d37b5",
+  "homepage": "https://github.com/flomair/gulp-excelsheets2json.git#readme",
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "excel"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "flomair",
+      "email": "f.mair@gmx.net"
+    }
+  ],
+  "name": "gulp-excelsheets2json",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flomair/gulp-excelsheets2json.git"
+  },
+  "scripts": {
+    "test": "mocha ./test/test.js"
+  },
+  "version": "1.3.0"
+}
